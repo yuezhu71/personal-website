@@ -85,7 +85,7 @@ author:
   bio              : "PhD student at Imperial College London"
   location         : "South Kensington, London"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "yue.zhu18@imperial.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
