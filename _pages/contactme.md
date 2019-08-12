@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-Feel free to contact me through email for enquires.   
+Feel free to contact me through email for enquires and cooperations.   
 
-Education Email: yue.zhu18@imperial.ac.uk   
+Education Email: yue.zhu18@imperial.ac.uk    
 Personal Email: y_zhu@outlook.com
