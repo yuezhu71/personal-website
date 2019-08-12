@@ -28,13 +28,13 @@ redirect_from:
   * <div style="text-align: justify">Designed the converter as phase shifting full bridge (PSFB) topology and did verification experiments.<div><br>
  
 # Leadership
-* Secretary-General, Alumni Association of Chu-Kochen Honor College, 2014-2015
+* Secretary-General, Alumni Association of Chu-Kochen Honor College, 2014-2015<br>
 
 # Skills
 * Power electronics design
 * DSP/ARM programming
 * Electronic simulation in Matlab-simulink / Powersim
-* PCB design
+* PCB design<br>
 
 # Language
 * Chinese madarin: native
