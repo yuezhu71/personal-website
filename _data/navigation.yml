@@ -1,4 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Paper"
     url: /publications/    
+  
+  - title: "Patents(Chinese)"
+    url: /publications/  
