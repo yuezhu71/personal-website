@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+lang: zh
 ---
 {% include base_path %}
 
@@ -29,6 +30,6 @@ doi: 10.1109/SCNS.2016.7870559<br>
 
 4. J. Wu, Z. Qian, Y. Zhu, R. Wang and X. He, "An Online Technique to Measure Mutual Inductance in Wireless Power Transmission System, " China National Invention Patent., NO. 2016110523599.  
    [一种无线电能传输系统中耦合线圈互感系数的在线测量方法](http://www.soopat.com/Patent/201611052359)
-   
+
 5. R. Wang, Y. Zhu, Z. Qian, J. Wu and X. He, "A Self-organization Energy Router Applied in Low Voltage Power Distribution," China National Invention Patent., Licensed No. 2017104149061.  
    [一种应用于低压配电终端的自组织电能路由器](http://www.soopat.com/Patent/201710414906)
