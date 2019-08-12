@@ -18,3 +18,17 @@ author_profile: true
 doi: 10.1109/SCNS.2016.7870559<br>
 
 ## Chinese Patents
+1. Y. Zhu, J. Du, Z. Wang, J. Wu and X. He, "A Feed-Forward MPPT Algorithm Method to Enhance PV Optimizer under Partial Shading, " China National Invention Patent., Licensed No.2016103629828.  
+   [一种局部阴影遮挡下提高光伏优化器调整速度和准确度的前馈MPPT控制方法](http://www.soopat.com/Patent/201610362982)
+
+2. J. Wu, Y. Zhu, Z. Feng and X. He, "An Online Debugging System Based on ARM Cortex M4," China National Invention Patent., Licensed No. 2016109334312.  
+   [一种基于ARM CortexM4内核处理器的在线调试系统](http://www.soopat.com/Patent/201610933431)
+
+3. J. Wu, Y. Zhu, R. Wang, Z. Wang and X. He, "A Structure of a Centralized PV System to Realize DMPPT, " China National Invention Patent., Licensed No. 2017102713295.  
+   [一种可以实现分布式MPPT的集中式光伏发电系统](http://www.soopat.com/Patent/201710271329?lx=FMSQ)
+
+4. J. Wu, Z. Qian, Y. Zhu, R. Wang and X. He, "An Online Technique to Measure Mutual Inductance in Wireless Power Transmission System, " China National Invention Patent., NO. 2016110523599.  
+   [一种无线电能传输系统中耦合线圈互感系数的在线测量方法](http://www.soopat.com/Patent/201611052359)
+   
+5. R. Wang, Y. Zhu, Z. Qian, J. Wu and X. He, "A Self-organization Energy Router Applied in Low Voltage Power Distribution," China National Invention Patent., Licensed No. 2017104149061.  
+   [一种应用于低压配电终端的自组织电能路由器](http://www.soopat.com/Patent/201710414906)
