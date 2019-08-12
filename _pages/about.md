@@ -8,12 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify">Hi, welcome to my personal website. I'm Yue Zhu, a Chinese researcher in Electrical and Electronic area. This website is built to display my academic career, and sometimes to share my personal moments.</div><br>
+<div align = "justify">
 
-# About Me
-<div style="text-align: justify">I'm now a PhD student at Imperial College London, majored in Electrical Engineering. My present research focuses on impedance measurement and noise analysis in power system. Meanwhile, I have experience in converter design, power line communication and power optimization of renewable energy system.</div><br>
+Hi, welcome to my personal website. I'm Yue Zhu, a Chinese researcher in Electrical and Electronic area. This website is built to display my academic career, and sometimes to share my personal moments.<br>
 
-# Education
+# <font size = "5"> About Me </font>
+I'm now a PhD student at Imperial College London, majored in Electrical Engineering. My present research focuses on impedance measurement and noise analysis in power system. Meanwhile, I have experience in converter design, power line communication and power optimization of renewable energy system.<br>
+
+# <font size = "5" > Education </font>
 - B.Eng. in Electronic Information Engineer, College of Electrical Engineering, Zhejiang University, 2016
 - Honor Degree, Chu-Kochen Honors College, Zhejiang University, 2016
 - M.Sc. in Electrical Engineering, College of Electrical Engineering, Zhejiang University, 2019
+
+<div>
