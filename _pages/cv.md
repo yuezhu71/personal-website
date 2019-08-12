@@ -25,8 +25,8 @@ redirect_from:
 # Research Projects & Experiences
 * Design of PV Voltage Compensator as Partial Power Converter
   * Modeled and Analyzed the voltage compensator in photovoltaic system.
-  * <div style="text-align: justify">Designed the converter as phase shifting full bridge (PSFB) topology and did verification experiments.<div><br>
- 
+  * <div style="text-align: justify">Designed the converter as phase shifting full bridge (PSFB) topology and did verification experiments.<div>
+
 # Leadership
 * Secretary-General, Alumni Association of Chu-Kochen Honor College, 2014-2015<br>
 
