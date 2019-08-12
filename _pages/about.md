@@ -17,7 +17,7 @@ redirect_from:
 * M.Sc. in Electrical Engineering, College of Electrical Engineering, Zhejiang University, Hangzhou, China, 2019
 * B.Eng. in Electronic Information Engineer, College of Electrical Engineering, Zhejiang University, Hangzhou, China, 2016
 * Honored Bachelor Degree, Chu-Kochen Honors College, Zhejiang University, Hangzhou, China, 2016
-¡¢
+
 
 ## Language
 * Chinese madarin: native
