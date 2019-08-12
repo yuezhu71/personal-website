@@ -29,3 +29,13 @@ redirect_from:
  
 # Leadership
 * Secretary-General, Alumni Association of Chu-Kochen Honor College, 2014-2015
+
+# Skills
+* Power electronics design
+* DSP/ARM programming
+* Electronic simulation in Matlab-simulink / Powersim
+* PCB design
+
+# Language
+* Chinese madarin: native
+* English: Proficient.
