@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yue's Personal Website"
+title: "Yue's Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,8 +17,9 @@ I'm now a PhD student at Imperial College London, majored in Electrical Engineer
 
 Education
 ======
-•	B.Eng. in Electronic Information Engineer, College of Electrical Engineering, Zhejiang University, 2016
+- B.Eng. in Electronic Information Engineer, College of Electrical Engineering, Zhejiang University, 2016
+- Honor Degree, Chu-Kochen Honors College, Zhejiang University, 2016
+- M.Sc. in Electrical Engineering, College of Electrical Engineering, Zhejiang University, 2019
 
-•	Honor Degree, Chu-Kochen Honors College, Zhejiang University, 2016
-
-•	M.Sc. in Electrical Engineering, College of Electrical Engineering, Zhejiang University, 2019
+Awards
+======
