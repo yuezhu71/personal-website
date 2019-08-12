@@ -14,9 +14,10 @@ redirect_from:
 <div style="text-align: justify">I'm now a PhD student at Imperial College London, majored in Electrical Engineering. My present research focuses on impedance measurement and noise analysis in power system. Meanwhile, I have experience in converter design, power line communication and power optimization of renewable energy system.</div>
 
 ## Education 
-* B.Eng. in Electronic Information Engineer, College of Electrical Engineering, Zhejiang University, Hangzhou, China, 2016
-* Honor Degree, Chu-Kochen Honors College, Zhejiang University, Hangzhou, China, 2016
 * M.Sc. in Electrical Engineering, College of Electrical Engineering, Zhejiang University, Hangzhou, China, 2019
+* B.Eng. in Electronic Information Engineer, College of Electrical Engineering, Zhejiang University, Hangzhou, China, 2016
+* Honored Bachelor Degree, Chu-Kochen Honors College, Zhejiang University, Hangzhou, China, 2016
+¡¢
 
 ## Language
 * Chinese madarin: native
