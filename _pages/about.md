@@ -18,5 +18,7 @@ I'm now a PhD student at Imperial College London, majored in Electrical Engineer
 Education
 ======
 •	B.Eng. in Electronic Information Engineer, College of Electrical Engineering, Zhejiang University, 2016
+
 •	Honor Degree, Chu-Kochen Honors College, Zhejiang University, 2016
+
 •	M.Sc. in Electrical Engineering, College of Electrical Engineering, Zhejiang University, 2019
