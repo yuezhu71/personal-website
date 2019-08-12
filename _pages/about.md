@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify">Hi, welcome to my personal website. I'm Yue Zhu, a Chinese researcher in Electrical and Electronic area. This website is built to display my academic career, and sometimes to share my personal moments.:smiley:</div>
+<div style="text-align: justify">Hi, welcome to my personal website. I'm Yue Zhu, a Chinese researcher in Electrical and Electronic area. This website is built to display my academic career, and sometimes to share my personal moments.
 
 About Me
 ======
