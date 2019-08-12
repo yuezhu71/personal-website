@@ -2,13 +2,3 @@
 main:
   - title: "Publications"
     url: /publications/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Linked-in"
-    url: https://www.linkedin.com/in/yue-zhu-988a0818a/
-    
-  - title: "CV"
-    url: /cv/
-
