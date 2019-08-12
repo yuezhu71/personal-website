@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mr. Yue Zhu"
-  avatar           : "yue-photo-square.jpg"
+  avatar           : "yue-profile.jpg"
   bio              : "PhD student at Imperial College London"
   location         : "South Kensington, London"
   employer         :
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
   github           : #"academicpages"
   google_plus      :
