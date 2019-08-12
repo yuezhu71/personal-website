@@ -10,6 +10,7 @@ redirect_from:
 
 <div style="text-align: justify">Hi, welcome to my personal website. I'm Yue Zhu, a Chinese researcher in Electrical and Electronic area. This website is built to display my academic career, and sometimes to share my personal moments.</div>
 
+
 About Me
 ======
 
@@ -18,10 +19,10 @@ About Me
 
 Education
 ======
-  
-  B.Eng. in Electronic Information Engineer, College of Electrical Engineering, Zhejiang University, 2016
-  Honor Degree, Chu-Kochen Honors College, Zhejiang University, 2016
-  M.Sc. in Electrical Engineering, College of Electrical Engineering, Zhejiang University, 2019
+- B.Eng. in Electronic Information Engineer, College of Electrical Engineering, Zhejiang University, 2016
+- Honor Degree, Chu-Kochen Honors College, Zhejiang University, 2016
+- M.Sc. in Electrical Engineering, College of Electrical Engineering, Zhejiang University, 2019
+
 
 Awards
 ======
