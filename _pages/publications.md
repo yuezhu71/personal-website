@@ -33,5 +33,5 @@ doi: 10.1109/SCNS.2016.7870559<br>
 
 * M.Sc Thesis  
   Research on Embedding Power Line Communication in Photovoltaic Power Optimizer  
-  [Download](http://yuezhu71.github.io/personal-website//files/Master_Thesis_Chinese_Ver.pdf)  
+  [Download PDF](http://yuezhu71.github.io/personal-website//files/Yue_Master_Thesis.pdf)  
   URL: [CNKI](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFDTEMP&filename=1019118016.nh&v=MTY3NTRFYlBJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTE9mWU9ScEZDam5VTHZOVkYyNkY3SzVGdEhOcVo=)
