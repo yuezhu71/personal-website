@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Contactme"
+title: "Contact Me"
 permalink: /contactme/
 author_profile: true
 redirect_from:
