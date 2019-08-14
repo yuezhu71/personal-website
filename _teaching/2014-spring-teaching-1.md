@@ -2,7 +2,7 @@
 title: "Design of PV Voltage Compensator as Partial Power Converter "
 collection: teaching
 type: "Supervised by Prof. Xiangning HE and Dr. Jiande Wu"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /experiences/exp1
 venue: "fulfilled in Zhejaing University, Hangzhou, China"
 date: 2015-12-1
 location: "Hangzhou, China"
