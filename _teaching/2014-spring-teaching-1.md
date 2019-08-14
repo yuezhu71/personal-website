@@ -13,7 +13,7 @@ location: "Hangzhou, China"
 
 ## Abstract
 <div style="text-align: justify">PV modules are vulnerable to dynamic shadows. For centralized photovoltaic systems, when the shadow blocks, Blocking diodes may cut off if voltage of the string is lower than Bus voltage. As a result, the entire string has no power output, even for PV modules which haven¡¯t been blocked. To solve the problem, this project proposed a concept of a DC compensator. The input of DC compensator is bus voltage, while the output connects the string in series. In this situation, the compensator will compensate for the missing part of string voltage, thus avoiding the string been cut off.</div><br>
-<div style="text-align: justify">In this project, to design a photovoltaic compensator, a full-bridge DC / DC converter is selected as main circuit topology and CortexM4 processor is selected as the main controller, together with phase shifting control mode selected as a control scheme. The compensator circuit is designed, simulated, analysis, produced and experimented. And the ability to enhance the output power in PV system is proved by experiments. </div>
+<div style="text-align: justify">In this project, to design a photovoltaic compensator, a phase shifting full-bridge converter is selected as main circuit topology and CortexM4 processor is selected as the main controller, together with phase shifting control mode selected as a control scheme. The compensator circuit is designed, simulated, analysis, produced and experimented. And the ability to enhance the output power in PV system is proved by experiments. </div>
 
 ## Work fulfilled
 * Modeled and Analyzed the voltage compensator in photovoltaic system.
