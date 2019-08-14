@@ -9,7 +9,7 @@ location: "Hangzhou, China"
 ---
 
 ## Description
-<div style="text-align: justify">This is a banchelor's research topic, also a research project of my research group in Zhejiang University. In this project, I designed a phase-shift full-bridge converter with power rate of 200W. The converter is connected at the end of a PV string to compensate the string voltage.</div>
+<div style="text-align: justify">This is my banchelor's research topic. In this project, I designed a phase-shift full-bridge converter with power rate of 200W. The converter is connected at the end of a PV string to compensate the string voltage.</div>
 
 ## Abstract
 <div style="text-align: justify">PV modules are vulnerable to dynamic shadows. For centralized photovoltaic systems, when the shadow blocks, Blocking diodes may cut off if voltage of the string is lower than Bus voltage. As a result, the entire string has no power output, even for PV modules which haven¡¯t been blocked. To solve the problem, this project proposed a concept of a DC compensator. The input of DC compensator is bus voltage, while the output connects the string in series. In this situation, the compensator will compensate for the missing part of string voltage, thus avoiding the string been cut off.</div><br>
