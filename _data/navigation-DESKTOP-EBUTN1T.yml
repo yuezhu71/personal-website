@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/ 
+    
+  - title: "Experiences"
+    url: /experiences/   
+  
+  - title: "Academic Blogs"
+    url: /blogs/  
+    
+  - title: "Moments"
+    url: /year-archive/
