@@ -20,5 +20,5 @@ redirect_from:
 
 
 ## Language
-* Chinese madarin: native
+* Chinese mandarin: native
 * English: proficient
