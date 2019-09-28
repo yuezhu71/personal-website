@@ -32,8 +32,8 @@ Still, to use this controller, the user must be familiar with MCU programming. T
 
 ## Prototype
 * Two boards<br>
-![experience2-1](https://yuezhu71.github.io/personal-website/images/experiences-pics/experience2-1.jpg){:height="50%" width="50%"}  <br>
+![experience2-1](https://yuezhu71.github.io/personal-website/images/experiences-pics/experience2-1.JPG){:height="50%" width="50%"}  <br>
 * Two boards stack together<br>
-![experience2-2](https://yuezhu71.github.io/personal-website/images/experiences-pics/experience2-2.jpg){:height="50%" width="50%"}  
+![experience2-2](https://yuezhu71.github.io/personal-website/images/experiences-pics/experience2-2.JPG){:height="50%" width="50%"}  
 * Application on Power Electronic Converter<br>
-![experience2-3](https://yuezhu71.github.io/personal-website/images/experiences-pics/experience2-3.jpg){:height="50%" width="50%"}  
+![experience2-3](https://yuezhu71.github.io/personal-website/images/experiences-pics/experience2-3.JPG){:height="50%" width="50%"}  
