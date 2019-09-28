@@ -1,7 +1,7 @@
 ---
-title: "Development of a high frequency Real-Time controller"
+title: "Development of a High Frequency Real-Time Controller"
 collection: teaching
-type: "Supervised by Dr. Jiande Wu, co-work with Mr. Weiwei Yang and Ms. Zhengyang Feng"
+type: "Supervised by Dr. Jiande Wu, co-worked with Mr. Weiwei Yang and Ms. Zhengyang Feng"
 permalink: /experiences/exp2
 venue: "fulfilled in Zhejaing University, Hangzhou, China"
 date: 01/07/2016 - 01/08/2018
