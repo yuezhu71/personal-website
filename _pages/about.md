@@ -12,7 +12,7 @@ redirect_from:
 
 
 ##  About Me
-<justify> I'm now a PhD student at Imperial College London, majored in Electrical Engineering. My present research focuses on the relationship between impedance and state-space representations for large-scale power system, and impedance measurement noise analysis in power system. I have experience in power hardware-in-the-loop (PHIL) technology, rapid-control prototyping, power converter design, power line communication. I proficient in PCB design, and MCU (ARM, DSP, Arduino) programming. I am also a research member of [Integrated Development of Low-carbon Energy Systems](https://www.imperial.ac.uk/energy-futures-lab/idles/) (IDLES) program at Imperial College.</justify>
+<div style="text-align: justify"> I'm now a PhD student at Imperial College London, majored in Electrical Engineering. My present research focuses on the relationship between impedance and state-space representations for large-scale power system, and impedance measurement noise analysis in power system. I have experience in power hardware-in-the-loop (PHIL) technology, rapid-control prototyping, power converter design, power line communication. I proficient in PCB design, and MCU (ARM, DSP, Arduino) programming. I am also a research member of Integrated Development of Low-carbon Energy Systems (IDLES) program at Imperial College.</div>
 
 ## Education 
 * M.Sc. in Electrical Engineering, College of Electrical Engineering, Zhejiang University, Hangzhou, China, 2019
