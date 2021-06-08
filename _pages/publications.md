@@ -7,15 +7,17 @@ author_profile: true
 {% include base_path %}
 
 ## Journal Paper
-1. Y. Li, Y. Gu, Y. Zhu, A. Junyent Ferre, X. Xiang and T. C. Green, "[Impedance Circuit Model of Grid-Forming Inverter: Visualizing Control Algorithms as Circuit Elements](https://ieeexplore.ieee.org/document/9162492)," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2020.3015158.
+1. Y. Zhu, Y. Gu, Y. Li, T. C. Green, "[Participation Analysis in Impedance Models: TheGrey-Box Approach for Power System Stability](http://yuezhu71.github.io/personal-website/files/Greybox_final_upload.pdf)" in IEEE Transactions on Power Systems, accepted, 2021.<br>
 
-2. P. Ge, Y. Zhu, T. Green and F. Teng, "[Resilient Secondary Voltage Control of Islanded Microgrids: An ESKBF-Based Distributed Fast Terminal Sliding Mode Control Approach](https://ieeexplore.ieee.org/document/9149820)," in IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2020.3012026.
+2. Y. Li, Y. Gu, Y. Zhu, A. Junyent Ferre, X. Xiang and T. C. Green, "[Impedance Circuit Model of Grid-Forming Inverter: Visualizing Control Algorithms as Circuit Elements](https://ieeexplore.ieee.org/document/9162492)," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2020.3015158.<br>
 
-3. Y. Gu, Y. Li, Y. Zhu and T. Green, "[Impedance-Based Whole-System Modeling for a Composite Grid via Embedding of Frame Dynamics](https://ieeexplore.ieee.org/document/9123531)," in IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2020.3004377.<br>
+3. P. Ge, Y. Zhu, T. Green and F. Teng, "[Resilient Secondary Voltage Control of Islanded Microgrids: An ESKBF-Based Distributed Fast Terminal Sliding Mode Control Approach](https://ieeexplore.ieee.org/document/9149820)," in IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2020.3012026.<br>
 
-4. Y. Zhu, J. Wu, R. Wang, Z. Lin and X. He, "[Embedding Power Line Communication in Photovoltaic Optimizer by Modulating Data in Power Control Loop](https://ieeexplore.ieee.org/document/8365138)," in IEEE Transactions on Industrial Electronics, vol. 66, no. 5, pp. 3948-3958, May 2019.<br>
+4. Y. Gu, Y. Li, Y. Zhu and T. Green, "[Impedance-Based Whole-System Modeling for a Composite Grid via Embedding of Frame Dynamics](https://ieeexplore.ieee.org/document/9123531)," in IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2020.3004377.<br>
 
-5. R. Zhang, J. Wu, R. Wang, R. Yan, Y. Zhu and X. He, "[A Novel Battery Management System Architecture Based on an Isolated Power/Data Multiplexing Transmission Bus](https://ieeexplore.ieee.org/document/8482491)," in IEEE Transactions on Industrial Electronics, vol. 66, no. 8, pp. 5979-5991, Aug. 2019.<br>
+5. Y. Zhu, J. Wu, R. Wang, Z. Lin and X. He, "[Embedding Power Line Communication in Photovoltaic Optimizer by Modulating Data in Power Control Loop](https://ieeexplore.ieee.org/document/8365138)," in IEEE Transactions on Industrial Electronics, vol. 66, no. 5, pp. 3948-3958, May 2019.<br>
+
+6. R. Zhang, J. Wu, R. Wang, R. Yan, Y. Zhu and X. He, "[A Novel Battery Management System Architecture Based on an Isolated Power/Data Multiplexing Transmission Bus](https://ieeexplore.ieee.org/document/8482491)," in IEEE Transactions on Industrial Electronics, vol. 66, no. 8, pp. 5979-5991, Aug. 2019.<br>
 
 
 ## Conference Paper
