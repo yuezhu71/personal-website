@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 ## Journal Paper
-1. Y. Zhu, Y. Gu, Y. Li, T. C. Green, "[Participation Analysis in Impedance Models: TheGrey-Box Approach for Power System Stability](http://yuezhu71.github.io/personal-website/files/Greybox_final_upload.pdf)" in IEEE Transactions on Power Systems, accepted, 2021.<br>
+1. Y. Zhu, Y. Gu, Y. Li, T. C. Green, "[Participation Analysis in Impedance Models: TheGrey-Box Approach for Power System Stability](https://ieeexplore.ieee.org/document/9451617)" in IEEE Transactions on Power Systems, accepted, 2021.<br>
 
 2. Y. Li, Y. Gu, Y. Zhu, A. Junyent Ferre, X. Xiang and T. C. Green, "[Impedance Circuit Model of Grid-Forming Inverter: Visualizing Control Algorithms as Circuit Elements](https://ieeexplore.ieee.org/document/9162492)," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2020.3015158.<br>
 
