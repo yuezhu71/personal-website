@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Mr. Yue Zhu"
+title                    : "Dr Yue Zhu"
 title_separator          : "-"
 name                     : &name "Yue Zhu"
 description              : &description "personal description"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mr. Yue Zhu"
+  name             : "Dr Yue Zhu"
   avatar           : "yue-profile.png"
-  bio              : "PhD student at Imperial College London"
+  bio              : "Research Associate at Imperial College London"
   location         : "South Kensington, London"
   employer         : "Imperial College London"
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "yue.zhu18@imperial.ac.uk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Yue_Zhu63"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : yue-zhu-988a0818a
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : https://orcid.org/my-orcid?orcid=0000-0002-0359-4532
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
