@@ -7,6 +7,8 @@ author_profile: true
 {% include base_path %}
 
 ## Journal Paper
+1. Y. Zhu, Y. Zhang and T. C. Green, "[Injection Amplitude Guidance for Impedance Measurement in Power Systems](https://ieeexplore.ieee.org/document/10068248)," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2023.3256182.
+
 1. Y. Zhu, Y. Gu, Y. Li and T. C. Green, "[Impedance-based Root-cause Analysis: Comparative Study of Impedance Models and Calculation of Eigenvalue Sensitivity](https://ieeexplore.ieee.org/document/9785718)," in IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2022.3179143.<br>
 
 2. Y. Zhu, Y. Gu, Y. Li, T. C. Green, "[Participation Analysis in Impedance Models: TheGrey-Box Approach for Power System Stability](https://ieeexplore.ieee.org/document/9451617)"  in IEEE Transactions on Power Systems, vol. 37, no. 1, pp. 343-353, Jan. 2022, doi: 10.1109/TPWRS.2021.3088345.<br>
