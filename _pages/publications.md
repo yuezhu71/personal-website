@@ -7,6 +7,11 @@ author_profile: true
 {% include base_path %}
 
 ## Journal Paper
+
+1. Y. Zhu, T. C. Green, X. Zhou, Y. Li, D. Kong and Y. Gu, "[Impedance Margin Ratio: a New Metric for Small-Signal System Strength](https://ieeexplore.ieee.org/abstract/document/10452832)," in IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2024.3371231.
+
+1. Q. Zheng, F. Gao, Y. Li, Y. Zhu and Y. Gu, "[Equivalence of Impedance Participation Analysis Methods for Hybrid AC/DC Power Systems](https://ieeexplore.ieee.org/abstract/document/10158039)," in IEEE Transactions on Power Systems, vol. 39, no. 2, pp. 3560-3574, March 2024, doi: 10.1109/TPWRS.2023.3288018
+
 1. Y. Zhu, Y. Zhang and T. C. Green, "[Injection Amplitude Guidance for Impedance Measurement in Power Systems](https://ieeexplore.ieee.org/document/10068248)," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2023.3256182.
 
 1. Y. Zhu, Y. Gu, Y. Li and T. C. Green, "[Impedance-based Root-cause Analysis: Comparative Study of Impedance Models and Calculation of Eigenvalue Sensitivity](https://ieeexplore.ieee.org/document/9785718)," in IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2022.3179143.<br>
@@ -41,8 +46,10 @@ doi: 10.1109/SCNS.2016.7870559<br>
 7. R. Wang, Y. Zhu, Z. Qian, J. Wu and X. He, "[A Self-organization Energy Router Applied in Low Voltage Power Distribution](http://www.soopat.com/Patent/201710414906)," China National Invention Patent., Licensed No. 2017104149061. <br>   
 
 ## Thesis
+* Ph.D Thesis
+
+	[Impedance model analysis and measurement for power system stability](https://spiral.imperial.ac.uk/handle/10044/1/100373)
 
 * M.Sc Thesis  
-  Research on Embedding Power Line Communication in Photovoltaic Power Optimizer  
-  [Download PDF](http://yuezhu71.github.io/personal-website/files/Yue_Master_Thesis.pdf)  
-  URL: [CNKI](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFDTEMP&filename=1019118016.nh&v=MTY3NTRFYlBJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTE9mWU9ScEZDam5VTHZOVkYyNkY3SzVGdEhOcVo=)
+  [Research on Embedding Power Line Communication in Photovoltaic Power Optimizer](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFDTEMP&filename=1019118016.nh&v=MTY3NTRFYlBJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTE9mWU9ScEZDam5VTHZOVkYyNkY3SzVGdEhOcVo=)  
+  Download [PDF](http://yuezhu71.github.io/personal-website/files/Yue_Master_Thesis.pdf)  
