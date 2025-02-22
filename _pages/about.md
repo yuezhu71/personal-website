@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify"> I am a researcher in electrical engineering.</div>
+<!--<div style="text-align: justify"> I am a researcher in electrical engineering.</div> -->
 
 
 ##  About Me
-<div style="text-align: justify"> I'm an Assistant Professor in the Department of Electrical Engineering, City University of Hong Kong (CityUHK). Prior to joining CityUHK, I was a Postdoctoral Research Associate in Department of Electrical and Electronic Engineering, Imperial College London.
+<div style="text-align: justify"> I'm an Assistant Professor in the Department of Electrical Engineering, City University of Hong Kong (CityUHK). Prior to joining CityUHK, I was a Postdoctoral Research Associate in Department of Electrical and Electronic Engineering, Imperial College London.</div>
 
 ## Research
-My research focuses on several key issues related with stability of the new-type power systems which are dominated by inverter-based resources (IBR), including:
+<div style="text-align: justify"> My research focuses on several key issues related with stability of the new-type power systems which are dominated by inverter-based resources (IBR), including:
 * Power system dynamics and stability: small-signal stability mainly.
 * Grid-following and grid-forming IBR control optimisation.
 * Data-driven on-line system modelling and monitoring enhanced by AI/ML.

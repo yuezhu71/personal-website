@@ -10,4 +10,4 @@ redirect_from:
 
 Feel free to contact me through email for enquires and cooperations.   
 
-Email: yue.zhu18@imperial.ac.uk
+Email: yue.zhu@cityu.edu.hk
