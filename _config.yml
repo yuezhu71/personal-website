@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Prof"
-title_separator          : "."
+title                    : "Prof. Yue Zhu"
+title_separator          : "-"
 name                     : &name "Yue Zhu"
 description              : &description "personal description"
 url                      : https://yuezhu.site # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Prof. Yue Zhu"
-  avatar           : "profile_cityU_square.png"
+  avatar           : "profile_cityU_square.jpg"
   bio              : "Assistant Professor at City University of Hong Kong"
   location         : "Kowloon Tong, Hong Kong, China"
   employer         : "City University of Hong Kong"
