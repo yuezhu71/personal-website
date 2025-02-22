@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /publications/ 
     
-  - title: "Experiences"
-    url: /experiences/   
+  #- title: "Experiences"
+  #  url: /experiences/   
   
-  - title: "Academic Blogs"
-    url: /blogs/  
+  #- title: "Academic Blogs"
+  #  url: /blogs/  
     
-  - title: "Moments"
-    url: /moments/
+  - title: "News"
+    url: /Moments/ 

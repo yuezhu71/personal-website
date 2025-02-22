@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Dr Yue Zhu"
-title_separator          : "-"
+title                    : "Prof"
+title_separator          : "."
 name                     : &name "Yue Zhu"
 description              : &description "personal description"
 url                      : https://yuezhu.site # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr Yue Zhu"
-  avatar           : "yue-profile.png"
-  bio              : "Research Associate at Imperial College London"
-  location         : "South Kensington, London"
-  employer         : "Imperial College London"
+  name             : "Prof. Yue Zhu"
+  avatar           : "profile_cityU_square.png"
+  bio              : "Assistant Professor at City University of Hong Kong"
+  location         : "Kowloon Tong, Hong Kong, China"
+  employer         : "City University of Hong Kong"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=qwAtRvsAAAAJ&hl=en"
-  email            : "yue.zhu18@imperial.ac.uk"
+  email            : "yue.zhu@cityu.edu.hk"
   researchgate     : "https://www.researchgate.net/profile/Yue_Zhu63"
   uri              :
   bitbucket        :
