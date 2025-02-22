@@ -10,9 +10,8 @@ redirect_from:
 
 <!--<div style="text-align: justify"> I am a researcher in electrical engineering.</div> -->
 
-
 ##  About Me
-<div style="text-align: justify"> I'm an Assistant Professor in the Department of Electrical Engineering, City University of Hong Kong (CityUHK). Prior to joining CityUHK, I was a Postdoctoral Research Associate in Department of Electrical and Electronic Engineering, Imperial College London.</div>
+<div style="text-align: justify"> I'm an Assistant Professor (<a href="https://www.cityu.edu.hk/vpti/paps/">Presidential Assistant Professor scheme</a>) in the Department of Electrical Engineering, City University of Hong Kong (CityUHK). Prior to joining CityUHK, I was a Postdoctoral Research Associate in Department of Electrical and Electronic Engineering, Imperial College London.</div>
 
 ## Research
 <div style="text-align: justify"> My research focuses on several key issues related with stability of the new-type power systems which are dominated by inverter-based resources (IBR), including:
