@@ -14,13 +14,14 @@ redirect_from:
 <div style="text-align: justify"> I'm an Assistant Professor (<a href="https://www.cityu.edu.hk/vpti/paps/">Presidential Assistant Professor scheme</a>) in the Department of Electrical Engineering, City University of Hong Kong (CityUHK). Prior to joining CityUHK, I was a Postdoctoral Research Associate in Department of Electrical and Electronic Engineering, Imperial College London.</div>
 
 ## Research
-<div style="text-align: justify"> My research focuses on several key issues related with stability of the new-type power systems which are dominated by inverter-based resources (IBR), including:
+<div style="text-align: justify"> My research focuses on several key issues related with stability of the new-type power systems which are dominated by inverter-based resources (IBR), including:</div>
+
 * Power system dynamics and stability: small-signal stability mainly.
 * Grid-following and grid-forming IBR control optimisation.
 * Data-driven on-line system modelling and monitoring enhanced by AI/ML.
 * Comprehensive system strength assessment for new IBR connection.
 * Tools development, including software and experimental test bench, for research on new-type power systems.
-</div>
+
 
 ## Education 
 * Ph.D. in Electrical Engineering, Department of Electrical and Electronic Engineering, Imperial College London, London, UK, October, 2022. Supervisor: Prof. Tim Green, Dr Yunjie Gu
