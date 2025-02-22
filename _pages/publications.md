@@ -29,10 +29,8 @@ author_profile: true
 
 
 ## Conference Papers
+1. A. Hadjileonidas, Y. Zhu*, T. Green, Admittance Margin: A Guideline for Placement of Grid-Following and Grid-Forming Inverters Regarding Small-Signal Stability, IECON 2024 – 50th Annual Conference of the IEEE Industrial Electronics Society, Chicago, USA. Accepted.
 1. X. Xiang, X. Zhang, Y. Zhu, G. P. Chaffey, Y. Gu and T. C. Green, "[The Resonant Modular Multilevel DC Converters for High Step-ratio and Low Step-ratio Interconnection in MVDC Distribution Network](https://ieeexplore.ieee.org/document/8926939)," IECON 2019 - 45th Annual Conference of the IEEE Industrial Electronics Society, Lisbon, Portugal, 2019, pp. 5686-5693, doi: 10.1109/IECON.2019.8926939.<br>
-2.  C. Hong, Z. Yue, W. RiChi and W. JianDe, "[Study of smart illumination control system with M2M communication technology](https://ieeexplore.ieee.org/document/8267831)," 2017 International Conference on Smart Cities, Automation & Intelligent Computing Systems (ICON-SONICS), Yogyakarta, 2017, pp. 110-115.<br>
-3.  H. Chen, Y. Zhu and J. Wu, "[Design RFCS with LonWorks technology in Internet of Things manufacturing](https://ieeexplore.ieee.org/document/7870559)," 2016 3rd Smart Cloud Networks & Systems (SCNS), Dubai, 2016, pp. 1-5.
-doi: 10.1109/SCNS.2016.7870559<br>
 
 ## Books/Chapters
 1.	Babak Badrzadeh, Zia Emin, etc. [Power System Dynamic Modelling and Analysis in Evolving Networks (CIGRE Green Book)](https://link.springer.com/referencework/10.1007/978-3-031-47821-5), 2024, Springer
