@@ -6,8 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-## Journal Paper
-
+## Journal Papers
 1. Y. Zhu, T. C. Green, X. Zhou, Y. Li, D. Kong and Y. Gu, "[Impedance Margin Ratio: a New Metric for Small-Signal System Strength](https://ieeexplore.ieee.org/abstract/document/10452832)," in IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2024.3371231.
 
 1. Q. Zheng, F. Gao, Y. Li, Y. Zhu and Y. Gu, "[Equivalence of Impedance Participation Analysis Methods for Hybrid AC/DC Power Systems](https://ieeexplore.ieee.org/abstract/document/10158039)," in IEEE Transactions on Power Systems, vol. 39, no. 2, pp. 3560-3574, March 2024, doi: 10.1109/TPWRS.2023.3288018
@@ -29,13 +28,16 @@ author_profile: true
 7. R. Zhang, J. Wu, R. Wang, R. Yan, Y. Zhu and X. He, "[A Novel Battery Management System Architecture Based on an Isolated Power/Data Multiplexing Transmission Bus](https://ieeexplore.ieee.org/document/8482491)," in IEEE Transactions on Industrial Electronics, vol. 66, no. 8, pp. 5979-5991, Aug. 2019.<br>
 
 
-## Conference Paper
+## Conference Papers
 1. X. Xiang, X. Zhang, Y. Zhu, G. P. Chaffey, Y. Gu and T. C. Green, "[The Resonant Modular Multilevel DC Converters for High Step-ratio and Low Step-ratio Interconnection in MVDC Distribution Network](https://ieeexplore.ieee.org/document/8926939)," IECON 2019 - 45th Annual Conference of the IEEE Industrial Electronics Society, Lisbon, Portugal, 2019, pp. 5686-5693, doi: 10.1109/IECON.2019.8926939.<br>
 2.  C. Hong, Z. Yue, W. RiChi and W. JianDe, "[Study of smart illumination control system with M2M communication technology](https://ieeexplore.ieee.org/document/8267831)," 2017 International Conference on Smart Cities, Automation & Intelligent Computing Systems (ICON-SONICS), Yogyakarta, 2017, pp. 110-115.<br>
 3.  H. Chen, Y. Zhu and J. Wu, "[Design RFCS with LonWorks technology in Internet of Things manufacturing](https://ieeexplore.ieee.org/document/7870559)," 2016 3rd Smart Cloud Networks & Systems (SCNS), Dubai, 2016, pp. 1-5.
 doi: 10.1109/SCNS.2016.7870559<br>
 
-## Chinese Patents
+## Books/Chapters
+1.	Babak Badrzadeh, Zia Emin, etc. [Power System Dynamic Modelling and Analysis in Evolving Networks (CIGRE Green Book)](https://link.springer.com/referencework/10.1007/978-3-031-47821-5), 2024, Springer
+
+## Patents
 1. Y. Zhu, J. Du, Z. Wang, J. Wu and X. He, "[A Feed-Forward MPPT Algorithm Method to Enhance PV Optimizer under Partial Shading](http://www.soopat.com/Patent/201610362982)
 , " China National Invention Patent., Licensed No.2016103629828.
 2. Y. Zhu, R. Wang, R. Yan, Z. Qian, J. Wu and X. He, "[An ASK Demodulation Circuit Based on Analog Switches](http://www.soopat.com/Patent/201710600919), " China National Invention Patent., Licensed No. 2017106009198.
@@ -47,7 +49,6 @@ doi: 10.1109/SCNS.2016.7870559<br>
 
 ## Thesis
 * Ph.D Thesis
-
 	[Impedance model analysis and measurement for power system stability](https://spiral.imperial.ac.uk/handle/10044/1/100373)
 
 * M.Sc Thesis  
