@@ -11,7 +11,7 @@ redirect_from:
 <!--<div style="text-align: justify"> I am a researcher in electrical engineering.</div> -->
 
 ##  BIO
-<div style="text-align: justify"> I am an Assistant Professor (under the<a href="https://www.cityu.edu.hk/vpti/paps/"> Presidential Assistant Professor scheme</a>) in the <a href="https://www.ee.cityu.edu.hk/">Department of Electrical Engineering</a>, City University of Hong Kong (CityUHK). Prior to joining CityUHK, I was a Postdoctoral Research Associate in Department of Electrical and Electronic Engineering, Imperial College London.</div>
+<div style="text-align: justify"> I am an Assistant Professor (under the <a href="https://www.cityu.edu.hk/vpti/paps/">Presidential Assistant Professors Scheme</a>) in the <a href="https://www.ee.cityu.edu.hk/">Department of Electrical Engineering</a>, City University of Hong Kong (CityUHK). Prior to joining CityUHK, I was a Postdoctoral Research Associate in Department of Electrical and Electronic Engineering, Imperial College London.</div>
 
 ## RESEARCH
 <div style="text-align: justify"> My research focuses on several key issues related with stability of electric power systems that are dominated by inverter-based resources (IBR), including:</div>
@@ -20,7 +20,7 @@ redirect_from:
 * Grid-following and grid-forming IBR control optimisation.
 * Data-driven on-line system modelling and monitoring enhanced by AI/ML.
 * Comprehensive system strength assessment for new IBR connection.
-* Tools development, including software and experimental test bench, for research on new electricity system.
+* Tools development, including software and experimental test bench, for research on IBR-dominated system.
 
 ## DEGREES 
 * **Ph.D.**<br>
