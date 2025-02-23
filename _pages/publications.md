@@ -8,9 +8,7 @@ author_profile: true
 
 ## Journal Papers
 1. Y. Zhu, T. C. Green, X. Zhou, Y. Li, D. Kong and Y. Gu, "[Impedance Margin Ratio: a New Metric for Small-Signal System Strength](https://ieeexplore.ieee.org/abstract/document/10452832)," in IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2024.3371231.
-
 1. Q. Zheng, F. Gao, Y. Li, Y. Zhu and Y. Gu, "[Equivalence of Impedance Participation Analysis Methods for Hybrid AC/DC Power Systems](https://ieeexplore.ieee.org/abstract/document/10158039)," in IEEE Transactions on Power Systems, vol. 39, no. 2, pp. 3560-3574, March 2024, doi: 10.1109/TPWRS.2023.3288018
-
 1. Y. Zhu, Y. Zhang and T. C. Green, "[Injection Amplitude Guidance for Impedance Measurement in Power Systems](https://ieeexplore.ieee.org/document/10068248)," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2023.3256182.
 
 1. Y. Zhu, Y. Gu, Y. Li and T. C. Green, "[Impedance-based Root-cause Analysis: Comparative Study of Impedance Models and Calculation of Eigenvalue Sensitivity](https://ieeexplore.ieee.org/document/9785718)," in IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2022.3179143.<br>
