@@ -10,19 +10,12 @@ author_profile: true
 1. Y. Zhu, T. C. Green, X. Zhou, Y. Li, D. Kong and Y. Gu, "[Impedance Margin Ratio: a New Metric for Small-Signal System Strength](https://ieeexplore.ieee.org/abstract/document/10452832)," in IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2024.3371231.
 1. Q. Zheng, F. Gao, Y. Li, Y. Zhu and Y. Gu, "[Equivalence of Impedance Participation Analysis Methods for Hybrid AC/DC Power Systems](https://ieeexplore.ieee.org/abstract/document/10158039)," in IEEE Transactions on Power Systems, vol. 39, no. 2, pp. 3560-3574, March 2024, doi: 10.1109/TPWRS.2023.3288018
 1. Y. Zhu, Y. Zhang and T. C. Green, "[Injection Amplitude Guidance for Impedance Measurement in Power Systems](https://ieeexplore.ieee.org/document/10068248)," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2023.3256182.
-
 1. Y. Zhu, Y. Gu, Y. Li and T. C. Green, "[Impedance-based Root-cause Analysis: Comparative Study of Impedance Models and Calculation of Eigenvalue Sensitivity](https://ieeexplore.ieee.org/document/9785718)," in IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2022.3179143.<br>
-
 2. Y. Zhu, Y. Gu, Y. Li, T. C. Green, "[Participation Analysis in Impedance Models: TheGrey-Box Approach for Power System Stability](https://ieeexplore.ieee.org/document/9451617)"  in IEEE Transactions on Power Systems, vol. 37, no. 1, pp. 343-353, Jan. 2022, doi: 10.1109/TPWRS.2021.3088345.<br>
-
 3. Y. Li, Y. Gu, Y. Zhu, A. Junyent Ferre, X. Xiang and T. C. Green, "[Impedance Circuit Model of Grid-Forming Inverter: Visualizing Control Algorithms as Circuit Elements](https://ieeexplore.ieee.org/document/9162492)," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2020.3015158.<br>
-
 4. P. Ge, Y. Zhu, T. Green and F. Teng, "[Resilient Secondary Voltage Control of Islanded Microgrids: An ESKBF-Based Distributed Fast Terminal Sliding Mode Control Approach](https://ieeexplore.ieee.org/document/9149820)," in IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2020.3012026.<br>
-
 5. Y. Gu, Y. Li, Y. Zhu and T. Green, "[Impedance-Based Whole-System Modeling for a Composite Grid via Embedding of Frame Dynamics](https://ieeexplore.ieee.org/document/9123531)," in IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2020.3004377.<br>
-
 6. Y. Zhu, J. Wu, R. Wang, Z. Lin and X. He, "[Embedding Power Line Communication in Photovoltaic Optimizer by Modulating Data in Power Control Loop](https://ieeexplore.ieee.org/document/8365138)," in IEEE Transactions on Industrial Electronics, vol. 66, no. 5, pp. 3948-3958, May 2019.<br>
-
 7. R. Zhang, J. Wu, R. Wang, R. Yan, Y. Zhu and X. He, "[A Novel Battery Management System Architecture Based on an Isolated Power/Data Multiplexing Transmission Bus](https://ieeexplore.ieee.org/document/8482491)," in IEEE Transactions on Industrial Electronics, vol. 66, no. 8, pp. 5979-5991, Aug. 2019.<br>
 
 

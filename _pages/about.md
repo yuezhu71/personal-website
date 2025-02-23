@@ -23,13 +23,15 @@ redirect_from:
 * Tools development, including software and experimental test bench, for research on new electricity system.
 
 ## DEGREES 
-* Ph.D.<br>
-Electrical Engineering, Department of Electrical and Electronic Engineering, Imperial College London, London, UK, October, 2022. Supervisor: Prof. Tim Green. Co-Supervisor: Prof. Yunjie Gu
-* M.Sc.<br>
-Electrical Engineering, College of Electrical Engineering, Zhejiang University, Hangzhou, China, March, 2019. Supervisor: Prof. Xiangning HE, Co-Supervisor: Prof. Jiande Wu
-* B.Eng. <br>
+* **Ph.D.**<br>
+Electrical Engineering, Department of Electrical and Electronic Engineering, Imperial College London, London, UK, October, 2022.<br>
+Supervisor: Prof. Tim Green. Co-Supervisor: Prof. Yunjie Gu
+* **M.Sc.**<br>
+Electrical Engineering, College of Electrical Engineering, Zhejiang University, Hangzhou, China, March, 2019.<br>
+Supervisor: Prof. Xiangning HE, Co-Supervisor: Prof. Jiande Wu
+* **B.Eng.** <br>
 Electronic Information Engineer, College of Electrical Engineering, Zhejiang University, Hangzhou, China, June, 2016
-* Honored Bachelor Degree<br>
+* **Honored Bachelor Degree**<br>
 Chu-Kochen Honors College, Zhejiang University, Hangzhou, China, June, 2016
 
 <!-- 
