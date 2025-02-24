@@ -47,4 +47,4 @@ Chu-Kochen Honors College, Zhejiang University, Hangzhou, China, June, 2016
 * English: Professional Proficient -->
 
 ## OPENINGS
-There are several Postdocoral Research Associate and fully funded PhD positions in my group. Interested candidates are encouraged to contact me directly via email (in English).
+There are several Postdocoral Research Associate and fully funded PhD positions in my group. Details can be found from [here](http://yuezhu71.github.io/personal-website/files/2025_Recruitment_en.pdf).
