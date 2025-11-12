@@ -48,8 +48,4 @@ Chu-Kochen Honors College, Zhejiang University, Hangzhou, China, June, 2016
 
 ## OPENINGS
 <!-- There are several Postdocoral Research Associate and fully funded PhD positions in my group. Details can be found from [here](http://yuezhu71.github.io/personal-website/files/2025_Recruitment_en.pdf).-->
-Propestive PhD students looking for Sep. 2026 entry can contact me via email. Timeline: <a href="https://www.cityu.edu.hk/pg/research-degree-programmes/apply-now">Link</a>.
-
-Postdoctoral positions are filled at the moment. Propestive Postdoctoral Fellows can keep checking this website.
-
-Visiting scholars and PhD students are welcome to contact.
+There are several openings in my group. Propestive PhD students, Postdoctoral Fellows, Joint PhDs, and visiting scholars can contact me via email.
