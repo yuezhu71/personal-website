@@ -7,6 +7,7 @@ author_profile: true
 {% include base_path %}
 
 ## Journal Papers
+1. A. Chen, Y. Zhu and H. Zhao, "[Almost Globally Stable GFL Inverter Control Scheme Based on Current Control Synchronization](https://ieeexplore.ieee.org/abstract/document/11386892)," in IEEE Transactions on Sustainable Energy, doi: 10.1109/TSTE.2026.3662805.
 1. K. Liu, Y. Zhu, Y. Gu, J. Wu, R. Wang and X. He, "[Integrating Dual-Channel Data into the d-q Frame for Talkative Power Converters in Three-Phase AC Systems](https://ieeexplore.ieee.org/document/11142768)," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2025.3603196.
 1.	Z. Wang, Y. Shan, Y. Zhu, R. Liu and Y. Gu, "[Spatio-Temporal Frequency Distribution Analysis in Systems With Grid-Forming and Grid-Following Inverters: A New Perspective From Frequency Domain](https://ieeexplore.ieee.org/document/11007156/metrics#metrics)," in IEEE Access, vol. 13, pp. 87999-88011, 2025, doi: 10.1109/ACCESS.2025.3571481.
 2. Y. Zhu, T. C. Green, X. Zhou, Y. Li, D. Kong and Y. Gu, "[Impedance Margin Ratio: a New Metric for Small-Signal System Strength](https://ieeexplore.ieee.org/abstract/document/10452832)," in IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2024.3371231.
