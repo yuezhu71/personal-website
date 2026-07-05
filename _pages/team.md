@@ -27,5 +27,5 @@ I am fortunate to work with a growing team of outstanding researchers and studen
 - Jinghao Yong (2026-present, FYP student), City University of Hong Kong.
 
 ### Alumni
-- Xinyu Zhang (2025-26, FYP student). Next position: M. Sc. student at Hong Kong University.
+- Xinyu Zhang (2025-26, FYP student). Next position: M. Sc. student at The University of Hong Kong.
 - Hoi Laam Lam (2025-26, FYP student). Next position: to be updated.
