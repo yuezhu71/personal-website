@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-* Aug 2026: I am awarded the National Natural Science Foundation of China (NSFC) Young Scientists Fund (Type C). This is a 3-year project on whole-system impedance identification and small-stability boundary problem in IBR-dominated power systems. The project starts from Jan. 2027.
+* Aug 2026: I am awarded the National Natural Science Foundation of China (NSFC) Young Scientists Fund (Type C). The project starts from Jan. 2027.
 
 * May 2026: our work on system strength measurement 'Application of Impedance-Based Frequency-Dependent System Strength Assessment for Inverter-Dominated Power Systems', which is a collaboration work with Imperial College London, National Physical Laboratory, and most of major industries in UK power systems, is published on IEEE Transactions on Power Delivery. [Link to the paper.](https://ieeexplore.ieee.org/document/11533501)
 
