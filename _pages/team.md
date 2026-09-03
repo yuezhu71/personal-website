@@ -11,6 +11,7 @@ I am fortunate to work with a growing team of outstanding researchers and studen
 
 - Dr. Xiangyu Meng:(2025-present): Ph.D,  Southwest Jiaotong University.
 - Dr. Boxin Liu (2026-present): Ph.D, Zhejiang University.
+- Dr. Qianlin Zhao (2026-present): Ph.D, Southwest Jiaotong University.
 
 ### PhD Students
 
