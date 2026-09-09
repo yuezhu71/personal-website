@@ -1,7 +1,7 @@
 ---
 title: "Group Gathering Dinner"
 date: 2026-06-29
-permalink: /moments/2026/06/huawei-visit/
+permalink: /moments/2026/06/group-dinner2026/
 tags:
   - group
   - activity
