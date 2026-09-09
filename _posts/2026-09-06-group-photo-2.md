@@ -1,6 +1,6 @@
 ---
 title: "Group Gathering Dinner"
-date: 2026-06-29
+date: 2026-09-06
 permalink: /moments/2026/06/group-dinner2026/
 tags:
   - group
