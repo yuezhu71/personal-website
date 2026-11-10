@@ -3,9 +3,9 @@ title: "Imperial College Visit: Prof. Goran Strbac, Prof. Mark O'Malley, and Pro
 date: 2026-01-15
 permalink: /moments/2025/11/imperial-visit/
 tags:
-  - visits
-  - guests
-  - power systems
+  - visit
+  - guest
+  - Imperial
 ---
 
 We were deeply honored to welcome Prof. Goran Strbac, Prof. Mark O'Malley, and Prof. Fei Teng from Imperial College London for a visit at CityU.
